@@ -1,0 +1,9 @@
+body{
+	background-color: lightblue;
+}
+
+h2, p{
+	color: navy;
+	font-family: Tahoma;
+	margin: 35px;
+}
